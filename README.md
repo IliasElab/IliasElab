@@ -1,7 +1,9 @@
 Hi 👋 <br />
-I’m software engineer, graduated with a master degree in 2020 <br />
+I’m a Software Engineer, graduated with a master degree in 2020 <br />
 I'm interested in Web Development and Data Analysis <br />
 Currently learning Django, Javascript/React <br />
+
+Living in Belgium
 
 You can contact me on : elab.ilias@gmail.com
 
