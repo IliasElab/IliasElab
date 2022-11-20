@@ -1,7 +1,7 @@
 Hi 👋 <br />
 I’m a Software Engineer, graduated with a master degree in 2020 <br />
-I'm interested in Web Development and Data Analysis <br />
-Currently learning Django, Javascript/React <br />
+I'm interested in Web Development and AI <br />
+Currently learning Typescript/React <br />
 
 Living in Belgium
 
